@@ -1,6 +1,5 @@
-I see that you've uploaded a `README.md` file along with the related project files. Based on the information and screenshots, it looks like you are working on a project involving a digital implementation of a Snakes and Ladder game on a Xilinx Spartan-6 FPGA. Here’s a sample `README.md` you can use for your GitHub repository:
 
-````markdown
+
 # Snakes and Ladders - FPGA Implementation
 
 This project implements the classic **Snakes and Ladders** game on a **Xilinx Spartan-6 LX9 FPGA** using **VHDL** for the logic. The game utilizes the **LogiCORE Mega Wing module** for joystick control and LCD display output. The design is developed and synthesized using the **Xilinx ISE** tool.
@@ -23,7 +22,7 @@ This project implements the classic **Snakes and Ladders** game on a **Xilinx Sp
    ```bash
    git clone https://github.com/yourusername/Snakes-and-Ladder.git
    cd Snakes-and-Ladder
-````
+
 
 2. Open the project in **Xilinx ISE**.
 3. Load the appropriate **constraints file** (`.ucf`) and ensure your FPGA is properly set up.
@@ -44,9 +43,6 @@ This project implements the classic **Snakes and Ladders** game on a **Xilinx Sp
 * `README.md`: This documentation file.
 * `Screenshot_2024-07-09_071636.png`: A screenshot of the project in Xilinx ISE.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
@@ -54,11 +50,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * **Xilinx ISE** for the FPGA synthesis and implementation.
 * **LogiCORE Mega Wing module** for joystick interface and display handling.
 
----
 
-Feel free to contribute to this project or use it as a reference for your own FPGA game designs!
+## License
 
-```
 
-Make sure to replace `"yourusername"` in the GitHub clone link with your actual username. Also, if you have any specific additions or changes to the setup or implementation, feel free to update the file accordingly.
-```
+
+
+
+
+
+
